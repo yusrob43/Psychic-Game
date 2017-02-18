@@ -1,0 +1,41 @@
+Psychic Game
+
+Guess what letter I'm thinking of :
+
+Wins: var wins=0
+
+Losses: var losses=0
+
+Guesses Left: guessleft=9 
+
+Your guesses so far: yourguess
+
+When the player wins, increase the wins counter, and start the game over:
+	for (i=
+
+When the player loses, increase the losses counter, and start the game over:
+
+
+Hangman Game
+
+Choose a theme:
+
+Use key events to listen for letters that your players will give:
+
+Display
+Press any key to get started:
+Wins: var wins=0
+
+Choose a word, display with _ _ _ _ _:
+
+Reveal proper letters:
+
+Number of guesses remaining:
+
+Letters Already guessed:
+
+Choose other word, start game over:
+
+Play a winning/losing sound:
+
+
